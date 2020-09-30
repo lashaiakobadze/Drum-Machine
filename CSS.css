@@ -1,0 +1,56 @@
+#root{
+  margin:50px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  align-content:center;
+  padding-top:50px;
+  min-width:600px;
+}
+button{
+  min-width:50px;
+}
+.slider{
+}
+.powerselector{
+  align-text:center;
+}
+h1{
+  color:white;
+}
+.ds-toggle{
+  border:1px solid black;
+  padding-left:10px;
+  padding-right:10px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.digidisplay{
+  font-family:digitalClock;
+}
+.myPanel{
+  min-width:300px;
+}
+body:{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+  align-items:center;
+  align-content:center;
+  padding-top:50px;
+}
+blockquote{
+  height:200px;
+}
+body{
+  background-color:OrangeRed;
+}
+#lasha{
+  position: absolute; 
+bottom: 0;
+}
+small:hover{
+  font-size:20px;
+}
