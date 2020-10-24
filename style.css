@@ -11,14 +11,12 @@
 button{
   min-width:50px;
 }
-.slider{
-}
-.powerselector{
-  align-text:center;
-}
+
+
 h1{
   color:white;
 }
+
 .ds-toggle{
   border:1px solid black;
   padding-left:10px;
@@ -27,30 +25,37 @@ h1{
   justify-content:center;
   align-items:center;
 }
+
 .digidisplay{
   font-family:digitalClock;
 }
+
 .myPanel{
   min-width:300px;
 }
-body:{
+
+/*body{
   display:flex;
   flex-direction:row;
   justify-content:center;
   align-items:center;
   align-content:center;
   padding-top:50px;
-}
+}*/
+
 blockquote{
   height:200px;
 }
+
 body{
   background-color:OrangeRed;
 }
+
 #lasha{
   position: absolute; 
-bottom: 0;
+  bottom: 0;
 }
+
 small:hover{
   font-size:20px;
 }
